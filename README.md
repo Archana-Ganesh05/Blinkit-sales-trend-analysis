@@ -34,7 +34,7 @@ The dataset contains order-level transactional data with the following key colum
 ## Output
 All results were exported as `.csv` files and compiled into a report using screenshots. Summary tables and visual insights were included for ease of presentation.
 
-## Insights (Optional to add)
+## Insights 
 - Highest revenue observed in [Month-Year]
 - Most active month in terms of order volume was [Month-Year]
 - Notable growth in 2024 compared to previous months
